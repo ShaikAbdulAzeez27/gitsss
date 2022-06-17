@@ -4,3 +4,4 @@ Platformation
 Learning Management System
 Excellence
 After pushing to and pulling from remote repo
+Now I understood the excercise
