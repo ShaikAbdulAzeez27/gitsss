@@ -1,1 +1,2 @@
 Sonata software
+Trying to figure out Git, seems interesting
